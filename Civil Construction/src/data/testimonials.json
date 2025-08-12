@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "David Thompson",
+    "company": "Thompson Industries",
+    "project": "Office Complex Renovation",
+    "rating": 5,
+    "text": "BuildCraft Construction exceeded our expectations. Their attention to detail and commitment to deadlines made our office renovation a seamless experience.",
+    "date": "2023-09-15"
+  },
+  {
+    "id": 2,
+    "name": "Maria Gonzalez",
+    "company": "Private Homeowner",
+    "project": "Custom Home Construction",
+    "rating": 5,
+    "text": "The team at BuildCraft built our dream home with exceptional craftsmanship. Every detail was perfect, and they stayed within budget and timeline.",
+    "date": "2023-07-22"
+  },
+  {
+    "id": 3,
+    "name": "Robert Kim",
+    "company": "Kim Enterprises",
+    "project": "Warehouse Construction",
+    "rating": 5,
+    "text": "Professional, reliable, and high-quality work. BuildCraft delivered exactly what they promised and maintained excellent communication throughout.",
+    "date": "2023-08-30"
+  },
+  {
+    "id": 4,
+    "name": "Jennifer Walsh",
+    "company": "City Planning Department",
+    "project": "Public Infrastructure",
+    "rating": 5,
+    "text": "BuildCraft's expertise in public works projects is outstanding. They handled all permits and regulations seamlessly while delivering superior results.",
+    "date": "2023-10-10"
+  }
+]

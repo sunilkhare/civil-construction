@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Modern Office Complex",
+    "category": "Commercial",
+    "description": "A state-of-the-art 5-story office complex featuring modern design and sustainable construction practices.",
+    "image": "/images/projects/office-complex.jpg",
+    "completionDate": "2023-08-15",
+    "client": "Tech Solutions Inc.",
+    "area": "25,000 sq ft",
+    "duration": "14 months",
+    "status": "completed"
+  },
+  {
+    "id": 2,
+    "title": "Luxury Residential Villa",
+    "category": "Residential",
+    "description": "Custom-built luxury villa with premium finishes, smart home technology, and landscaped gardens.",
+    "image": "/images/projects/luxury-villa.jpg",
+    "completionDate": "2023-06-20",
+    "client": "Private Client",
+    "area": "4,500 sq ft",
+    "duration": "10 months",
+    "status": "completed"
+  },
+  {
+    "id": 3,
+    "title": "Downtown Bridge Renovation",
+    "category": "Infrastructure",
+    "description": "Complete renovation of historic downtown bridge with modern safety features and architectural preservation.",
+    "image": "/images/projects/bridge-renovation.jpg",
+    "completionDate": "2023-09-30",
+    "client": "City Municipality",
+    "area": "500 ft length",
+    "duration": "8 months",
+    "status": "completed"
+  },
+  {
+    "id": 4,
+    "title": "Industrial Warehouse",
+    "category": "Commercial",
+    "description": "Large-scale industrial warehouse with automated systems and energy-efficient design.",
+    "image": "/images/projects/warehouse.jpg",
+    "completionDate": "2024-01-15",
+    "client": "Logistics Corp",
+    "area": "50,000 sq ft",
+    "duration": "12 months",
+    "status": "in-progress"
+  },
+  {
+    "id": 5,
+    "title": "Shopping Center Development",
+    "category": "Commercial",
+    "description": "Multi-phase shopping center development with retail spaces, restaurants, and entertainment facilities.",
+    "image": "/images/projects/shopping-center.jpg",
+    "completionDate": "2024-06-30",
+    "client": "Retail Development Group",
+    "area": "75,000 sq ft",
+    "duration": "18 months",
+    "status": "in-progress"
+  },
+  {
+    "id": 6,
+    "title": "Residential Community",
+    "category": "Residential",
+    "description": "Planned residential community with 50 homes, community center, and green spaces.",
+    "image": "/images/projects/residential-community.jpg",
+    "completionDate": "2024-12-15",
+    "client": "Green Valley Developers",
+    "area": "25 acres",
+    "duration": "24 months",
+    "status": "planning"
+  }
+]

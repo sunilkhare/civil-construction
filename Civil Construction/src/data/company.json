@@ -1,0 +1,23 @@
+{
+  "company": {
+    "name": "Dhanaraj Contruction",
+    "tagline": "Building Excellence, Delivering Quality",
+    "description": "Professional civil construction services with over 15 years of experience in delivering high-quality construction projects.",
+    "founded": "2009",
+    "employees": "50+",
+    "projectsCompleted": "200+",
+    "phone": "+1 (555) 123-4567",
+    "email": "info@buildcraft.com",
+    "address": {
+      "street": "123 Construction Ave",
+      "city": "Builder City",
+      "state": "BC",
+      "zip": "12345"
+    },
+    "socialMedia": {
+      "facebook": "https://facebook.com/buildcraft",
+      "linkedin": "https://linkedin.com/company/buildcraft",
+      "instagram": "https://instagram.com/buildcraft"
+    }
+  }
+}

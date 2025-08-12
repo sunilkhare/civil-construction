@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "src": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "alt": "Modern Office Building Construction",
+    "title": "Corporate Office Complex",
+    "caption": "5-story modern office building with sustainable design and energy-efficient systems"
+  },
+  {
+    "id": 2,
+    "src": "https://images.unsplash.com/photo-1448630360428-65456885c650?ixlib=rb-4.0.3&auto=format&fit=crop&w=2067&q=80",
+    "alt": "Luxury Residential Home",
+    "title": "Custom Luxury Villa",
+    "caption": "Premium residential construction with modern amenities and landscaped gardens"
+  },
+  {
+    "id": 3,
+    "src": "https://images.unsplash.com/photo-1590725140246-20acdee442be?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80",
+    "alt": "Construction Site Work",
+    "title": "Infrastructure Development",
+    "caption": "Large-scale infrastructure project showcasing our expertise in civil engineering"
+  },
+  {
+    "id": 4,
+    "src": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "alt": "Bridge Construction",
+    "title": "Bridge Infrastructure",
+    "caption": "Modern bridge construction with advanced engineering and safety standards"
+  },
+  {
+    "id": 5,
+    "src": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "alt": "Industrial Construction",
+    "title": "Industrial Facility",
+    "caption": "State-of-the-art industrial facility with automated systems and modern design"
+  },
+  {
+    "id": 6,
+    "src": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "alt": "Team at Construction Site",
+    "title": "Professional Team",
+    "caption": "Our experienced team working on a major construction project with precision and safety"
+  }
+]

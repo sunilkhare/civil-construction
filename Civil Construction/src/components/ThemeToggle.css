@@ -1,0 +1,71 @@
+.theme-toggle {
+  position: relative;
+  width: 60px;
+  height: 30px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  cursor: pointer;
+  padding: 2px;
+  border-radius: 15px;
+  transition: all 0.3s ease;
+  margin-right: 10px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.theme-toggle:hover {
+  background: rgba(255, 255, 255, 0.15);
+  border-color: rgba(255, 255, 255, 0.3);
+  transform: scale(1.05);
+}
+
+.theme-toggle-track {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #f39c12, #e67e22);
+  border: none;
+  border-radius: 13px;
+  position: relative;
+  transition: all 0.3s ease;
+  overflow: hidden;
+}
+
+.theme-toggle:hover .theme-toggle-track {
+  background: linear-gradient(135deg, #e67e22, #d35400);
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.theme-toggle-thumb {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  background: #ffffff;
+  border-radius: 50%;
+  top: 2px;
+  left: 2px;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  border: none;
+}
+
+[data-theme="dark"] .theme-toggle-thumb {
+  transform: translateX(26px);
+  background: #2c3e50;
+}
+
+.theme-icon {
+  font-size: 12px;
+  transition: all 0.3s ease;
+  font-weight: bold;
+}
+
+[data-theme="dark"] .theme-toggle-track {
+  background: linear-gradient(135deg, #2c3e50, #34495e);
+}
+
+[data-theme="dark"] .theme-toggle:hover .theme-toggle-track {
+  background: linear-gradient(135deg, #34495e, #2c3e50);
+}

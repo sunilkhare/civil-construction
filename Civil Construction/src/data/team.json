@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "John Anderson",
+    "position": "CEO & Founder",
+    "bio": "John has over 20 years of experience in civil construction and founded BuildCraft Construction with a vision to deliver exceptional quality projects.",
+    "image": "/images/team/john-anderson.jpg",
+    "education": "Civil Engineering, State University",
+    "certifications": ["PMP", "LEED AP"],
+    "email": "john@buildcraft.com"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Williams",
+    "position": "Project Manager",
+    "bio": "Sarah specializes in large-scale commercial projects and has successfully managed over 100 construction projects.",
+    "image": "/images/team/sarah-williams.jpg",
+    "education": "Construction Management, Tech Institute",
+    "certifications": ["PMP", "OSHA 30"],
+    "email": "sarah@buildcraft.com"
+  },
+  {
+    "id": 3,
+    "name": "Michael Chen",
+    "position": "Chief Engineer",
+    "bio": "Michael leads our engineering team with expertise in structural design and innovative construction solutions.",
+    "image": "/images/team/michael-chen.jpg",
+    "education": "Structural Engineering, Engineering University",
+    "certifications": ["PE", "SE"],
+    "email": "michael@buildcraft.com"
+  },
+  {
+    "id": 4,
+    "name": "Emily Rodriguez",
+    "position": "Safety Coordinator",
+    "bio": "Emily ensures all projects meet the highest safety standards and regulatory compliance requirements.",
+    "image": "/images/team/emily-rodriguez.jpg",
+    "education": "Occupational Safety, Safety College",
+    "certifications": ["CSP", "CHST", "OSHA 30"],
+    "email": "emily@buildcraft.com"
+  }
+]

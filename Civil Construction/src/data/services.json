@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Residential Construction",
+    "description": "Custom home building and residential developments with attention to detail and quality craftsmanship.",
+    "icon": "🏠",
+    "features": [
+      "Custom Home Construction",
+      "Home Renovations",
+      "Kitchen & Bathroom Remodeling",
+      "Home Extensions"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Commercial Construction",
+    "description": "Professional commercial building services for offices, retail spaces, and industrial facilities.",
+    "icon": "🏢",
+    "features": [
+      "Office Buildings",
+      "Retail Spaces",
+      "Warehouses",
+      "Industrial Facilities"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Infrastructure Development",
+    "description": "Large-scale infrastructure projects including roads, bridges, and public works.",
+    "icon": "🌉",
+    "features": [
+      "Road Construction",
+      "Bridge Building",
+      "Public Works",
+      "Utility Installation"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Site Preparation",
+    "description": "Complete site preparation services including excavation, grading, and foundation work.",
+    "icon": "🚜",
+    "features": [
+      "Excavation Services",
+      "Site Grading",
+      "Foundation Work",
+      "Utility Connections"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Project Management",
+    "description": "Comprehensive project management services ensuring timely and budget-conscious delivery.",
+    "icon": "📋",
+    "features": [
+      "Timeline Management",
+      "Budget Control",
+      "Quality Assurance",
+      "Safety Compliance"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Consultation Services",
+    "description": "Expert consultation for construction planning, permits, and regulatory compliance.",
+    "icon": "💼",
+    "features": [
+      "Construction Planning",
+      "Permit Assistance",
+      "Regulatory Compliance",
+      "Cost Estimation"
+    ]
+  }
+]
